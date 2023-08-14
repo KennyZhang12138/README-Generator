@@ -1,39 +1,39 @@
 
 # Project Title
-title
+prject title
 ![Github License](https://img.shields.io/badge/license-Boost1.0-yellowgreen.svg)
 
 ## Description
-deas
+something awsome
 
 ## Table of Contents 
 
-* [Installation](#-Installation)
-* [Usage](#-Usage)
-* [License](#-License)
-* [Contributors](#-Contributors)
-* [Tests](#-Tests)
-* [Questions](#-Contact-Information)
+* [Installation](#Installation)
+* [Usage](#Usage)
+* [License](#License)
+* [Contributors](#Contributors)
+* [Tests](#Tests)
+* [Questions](#Questions)
     
 ## Installation
 
   ```
-  js
+  inquirer
   ```
 
 ## Usage
-nothing
+for fun
 
 ## License 
 * [License](#-license)
 
 ## Contributors 
-me
+kenny
 
 ## Tests
 
   ```
-  jj.js
+  test.js
   ```
 
 ## Questions
@@ -41,4 +41,4 @@ me
   For additional questions, contact me at the email provided below. 
 
   - GitHub: [kenny](https://github.com/kenny/)
-  - Email:  edad@sda.com
+  - Email:  kenny@g.com
