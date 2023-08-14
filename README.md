@@ -15,10 +15,10 @@ This repository is an exhibition of a professional README generator. The user ca
 </br>
 
 ## Screen Capture
-![](https://user-images.githubusercontent.com/81927296/193630229-34d38a3e-910c-40a2-99a2-528514cd7692.gif)
+![](./assets/runthough.gif)
 
 ## Full Walkthrough Video
-[Link](https://drive.google.com/file/d/1iClDwYC3qFpRrUIluCTTj-AcVWoWfrnB/view?usp=sharing)
+[Link](https://drive.google.com/file/d/1mvxSQzJLF7AJp9s2lE09-I2wTMfrBHRU/view)
 
 ## Installation
   1. Fork and clone repository to local machine. 
