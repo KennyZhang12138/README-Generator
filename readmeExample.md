@@ -1,10 +1,10 @@
 
 # Project Title
-prject title
-![Github License](https://img.shields.io/badge/license-Boost1.0-yellowgreen.svg)
+title
+![Github License](https://img.shields.io/badge/license-GLP3.0-yellowgreen.svg)
 
 ## Description
-something awsome
+something fun
 
 ## Table of Contents 
 
@@ -25,10 +25,10 @@ something awsome
 for fun
 
 ## License 
-* [License](#-license)
+![Github License](https://img.shields.io/badge/license-GLP3.0-yellowgreen.svg)
 
 ## Contributors 
-kenny
+me
 
 ## Tests
 
