@@ -37,7 +37,7 @@ ${data.description}
 * [License](#-License)
 * [Contributors](#-Contributors)
 * [Tests](#-Tests)
-* [Questions](#-Contact-Information)
+* [Questions](#-Questions)
     
 ## Installation
 
